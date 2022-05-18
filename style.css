@@ -1,32 +1,46 @@
-        .GG-Title {
-            text-align: center;
-            font-family: TAHOMA, sans-serif;
-            text-shadow: px;
-        }
-        
-        ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-        }
-        
-        li {
-            float: left;
-        }
-        
-        li a {
-            display: block;
-            color: #000;
-            padding: 8px 16px;
-            text-decoration: none;
-            letter-spacing: ;
-        }
-        
-        li a:hover {
-            background-color: #555;
-            color: #f1f;
-        }
-        /*#nav li {
-            display: inline;
-        }
+            .GG-Title {
+                text-align: center;
+                font-family: TAHOMA, sans-serif;
+                text-shadow: px;
+            }
+            
+            h1 {
+                border: 1px solid black;
+            }
+            
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+            }
+            
+            li {
+                float: left;
+            }
+            
+            li a {
+             
+                color: #000;
+                padding: 8px 16px;
+                text-decoration: none;
+              
+            }
+            
+            li a:hover {
+                color: #555;
+                color: #f1f;
+            }
+            
+            #nav li {
+                display: inline;
+            }
+            
+      
+            p {
+               
+            }
+            
+            body {
+                background-color: #000;
+            }
